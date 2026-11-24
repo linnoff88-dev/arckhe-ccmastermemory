@@ -1,4 +1,4 @@
-﻿# ðŸ§  CC Master Memory
+# ðŸ§  CC Master Memory
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -7,7 +7,7 @@
 
 
 > Curso completo e profundo sobre **injeÃ§Ã£o de memÃ³ria em Claude Code via hooks**.
-> Formato **INEMA.CLUB** â€” HTML puro, dark/light, sem build.
+> Formato **ARCKHÉ AI** â€” HTML puro, dark/light, sem build.
 
 ---
 
@@ -48,7 +48,7 @@ Acesse direto o `index.html` hospedado.
 ### OpÃ§Ã£o 2 â€” Local
 
 ```bash
-git clone https://github.com/inematds/ccmastermemory.git
+git clone https://github.com/linnoff88-dev/ccmastermemory.git
 cd ccmastermemory
 # Abrir index.html no navegador (Chrome, Firefox, Edge)
 xdg-open index.html   # Linux
@@ -102,7 +102,7 @@ ccmastermemory/
 ConteÃºdo didÃ¡tico de uso livre para estudo pessoal e institucional.
 ContribuiÃ§Ãµes e correÃ§Ãµes: abra uma issue ou PR.
 
-**INEMA.CLUB** Â· 2026
+**ARCKHÉ AI** Â· 2026
 
 ---
 
