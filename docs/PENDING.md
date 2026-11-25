@@ -1,86 +1,86 @@
-# Status do curso â€” CONCLUIDO âœ…
+# Status do curso ê¢â¬â CONCLUIDO ê¢Åâ¦
 
 ## Curso completo
 
 ### Landing e README
-- `index.html` â€” landing com hero, grande ideia (CLAUDE.md vs hooks), 6 cards de trilha, metodologia
-- `README.md` â€” visÃ£o geral, estrutura, como usar, prÃ©-requisitos
+- `index.html` ê¢â¬â landing com hero, grande ideia (CLAUDE.md vs hooks), 6 cards de trilha, metodologia
+- `README.md` ê¢â¬â visêÂ£o geral, estrutura, como usar, prêÂ©-requisitos
 
-### Todas as 6 trilhas Ã— 6 mÃ³dulos = 36 mÃ³dulos ricos âœ…
+### Todas as 6 trilhas êâ 6 mêÂ³dulos = 36 mêÂ³dulos ricos ê¢Åâ¦
 
-| Trilha | Cor | MÃ³dulos | Status |
+| Trilha | Cor | MêÂ³dulos | Status |
 |--------|-----|---------|--------|
-| T1 Por que memÃ³ria importa | Emerald | 6 | âœ… Detalhados |
-| T2 Os 7 nÃ­veis | Blue | 6 | âœ… Detalhados |
-| T3 Anatomia dos 18 hooks | Purple | 6 | âœ… Detalhados |
-| T4 Os 3 hooks crÃ­ticos | Amber | 6 | âœ… Detalhados (CORE) |
-| T5 Arquitetura e backends | Teal | 6 | âœ… Detalhados |
-| T6 Projeto prÃ¡tico | Rose | 6 | âœ… Detalhados |
+| T1 Por que memêÂ³ria importa | Emerald | 6 | ê¢Åâ¦ Detalhados |
+| T2 Os 7 nêÂ­veis | Blue | 6 | ê¢Åâ¦ Detalhados |
+| T3 Anatomia dos 18 hooks | Purple | 6 | ê¢Åâ¦ Detalhados |
+| T4 Os 3 hooks crêÂ­ticos | Amber | 6 | ê¢Åâ¦ Detalhados (CORE) |
+| T5 Arquitetura e backends | Teal | 6 | ê¢Åâ¦ Detalhados |
+| T6 Projeto prêÂ¡tico | Rose | 6 | ê¢Åâ¦ Detalhados |
 
-**Cada mÃ³dulo tem:**
-- NavegaÃ§Ã£o completa (6 trilhas + home + ARCKHÉ AI)
-- Breadcrumb (InÃ­cio / Trilha X / MÃ³dulo X.Y)
-- Header temÃ¡tico com 4 stats (tÃ³picos, minutos, nÃ­vel, tipo)
-- **6 seÃ§Ãµes ricas** (uma por tÃ³pico) com:
-  - Ãcone em cÃ­rculo grande numerado
-  - ParÃ¡grafo introdutÃ³rio
+**Cada mêÂ³dulo tem:**
+- NavegaêÂ§êÂ£o completa (6 trilhas + home + ARCKHê AI)
+- Breadcrumb (InêÂ­cio / Trilha X / MêÂ³dulo X.Y)
+- Header temêÂ¡tico com 4 stats (têÂ³picos, minutos, nêÂ­vel, tipo)
+- **6 seêÂ§êÂµes ricas** (uma por têÂ³pico) com:
+  - êÂcone em cêÂ­rculo grande numerado
+  - ParêÂ¡grafo introdutêÂ³rio
   - Boxes: conceito (gradient), stats (blue), grid fazer/evitar (emerald/red), timeline, ASCII diagrams, dicas (primary/yellow), alertas (red)
 - Resumo final com checklist de 3-4 pontos
-- NavegaÃ§Ã£o prev/next
+- NavegaêÂ§êÂ£o prev/next
 
-**Cada Ã­ndice de trilha tem:**
-- 6 mÃ³dulos Ã— 6 tÃ³picos Ã— 3 seÃ§Ãµes (O que Ã© / Por que / Conceitos-chave) = **108 blocos de conteÃºdo**
-- TÃ³picos expansÃ­veis com accordion
-- Modais com iframe para preview rÃ¡pido
-- BotÃ£o "Ver Completo" para a pÃ¡gina cheia do mÃ³dulo
+**Cada êÂ­ndice de trilha tem:**
+- 6 mêÂ³dulos êâ 6 têÂ³picos êâ 3 seêÂ§êÂµes (O que êÂ© / Por que / Conceitos-chave) = **108 blocos de conteêÂºdo**
+- TêÂ³picos expansêÂ­veis com accordion
+- Modais com iframe para preview rêÂ¡pido
+- BotêÂ£o "Ver Completo" para a pêÂ¡gina cheia do mêÂ³dulo
 
-### Menus auditados âœ…
-- 43 pÃ¡ginas HTML totais
-- Todos com nav consistente (6 trilhas + ARCKHÉ AI + theme toggle)
+### Menus auditados ê¢Åâ¦
+- 43 pêÂ¡ginas HTML totais
+- Todos com nav consistente (6 trilhas + ARCKHê AI + theme toggle)
 - Todos com breadcrumb quando aplicavel
 - Sem links quebrados
 
-### Labs (cÃ³digo executÃ¡vel)
-- `labs/palavra-codigo/` â€” experimento A/B CLAUDE.md vs hook + settings.json + hook.sh
-- `labs/prime-md/` â€” template de identidade
-- `labs/context-md/` â€” template de contexto crÃ­tico
-- `labs/promote-py/promote.py` â€” detector 3-strikes funcional
-- `labs/decay-py/decay.py` â€” decay com salience scoring funcional
-- `labs/gemini-summary/summarize_session.py` â€” SessionEnd + Gemini Flash funcional
+### Labs (cêÂ³digo executêÂ¡vel)
+- `labs/palavra-codigo/` ê¢â¬â experimento A/B CLAUDE.md vs hook + settings.json + hook.sh
+- `labs/prime-md/` ê¢â¬â template de identidade
+- `labs/context-md/` ê¢â¬â template de contexto crêÂ­tico
+- `labs/promote-py/promote.py` ê¢â¬â detector 3-strikes funcional
+- `labs/decay-py/decay.py` ê¢â¬â decay com salience scoring funcional
+- `labs/gemini-summary/summarize_session.py` ê¢â¬â SessionEnd + Gemini Flash funcional
 
-### Exemplos de configuraÃ§Ã£o
-- `exemplos-hooks/completo-final.json` â€” settings.json completo com os 4 hooks
+### Exemplos de configuraêÂ§êÂ£o
+- `exemplos-hooks/completo-final.json` ê¢â¬â settings.json completo com os 4 hooks
 
-### DocumentaÃ§Ã£o
+### DocumentaêÂ§êÂ£o
 - `README.md` do repo
-- `docs/PENDING.md` â€” este arquivo (status)
-- `docs/referencias.md` â€” links ao material-fonte
+- `docs/PENDING.md` ê¢â¬â este arquivo (status)
+- `docs/referencias.md` ê¢â¬â links ao material-fonte
 
 ---
 
-## PrÃ³ximos passos opcionais (melhorias, nÃ£o bloqueios)
+## PrêÂ³ximos passos opcionais (melhorias, nêÂ£o bloqueios)
 
 ### Skill empacotada
-- `skills/memory-architect/` â€” versÃ£o adaptada do `memorydesigner.md` original, empacotada como skill Claude Code instalÃ¡vel. (Funcional como markdown, falta packaging formal)
+- `skills/memory-architect/` ê¢â¬â versêÂ£o adaptada do `memorydesigner.md` original, empacotada como skill Claude Code instalêÂ¡vel. (Funcional como markdown, falta packaging formal)
 
-### DocumentaÃ§Ã£o adicional
-- `docs/glossario.md` â€” termos tÃ©cnicos usados no curso
-- `docs/roadmap.md` â€” releases futuros planejados
+### DocumentaêÂ§êÂ£o adicional
+- `docs/glossario.md` ê¢â¬â termos têÂ©cnicos usados no curso
+- `docs/roadmap.md` ê¢â¬â releases futuros planejados
 
 ### Melhorias visuais
-- SVGs ilustrativos nos mÃ³dulos-chave (atualmente usa ASCII art)
-- VÃ­deos curtos embeddados
+- SVGs ilustrativos nos mêÂ³dulos-chave (atualmente usa ASCII art)
+- VêÂ­deos curtos embeddados
 - Dark/light transition animada
 
 ---
 
-## EstatÃ­sticas finais
+## EstatêÂ­sticas finais
 
-- **PÃ¡ginas HTML:** 43 (1 landing + 6 trilha indexes + 36 mÃ³dulos)
-- **Tamanho total:** ~1.1 MB de conteÃºdo
+- **PêÂ¡ginas HTML:** 43 (1 landing + 6 trilha indexes + 36 mêÂ³dulos)
+- **Tamanho total:** ~1.1 MB de conteêÂºdo
 - **Cor-tema por trilha:** 6 cores (emerald, blue, purple, amber, teal, rose)
-- **TÃ³picos de conteÃºdo:** 216 tÃ³picos expansÃ­veis + 216 seÃ§Ãµes em mÃ³dulos = 432 unidades didÃ¡ticas
-- **Labs executÃ¡veis:** 6 pacotes com cÃ³digo funcional
+- **TêÂ³picos de conteêÂºdo:** 216 têÂ³picos expansêÂ­veis + 216 seêÂ§êÂµes em mêÂ³dulos = 432 unidades didêÂ¡ticas
+- **Labs executêÂ¡veis:** 6 pacotes com cêÂ³digo funcional
 - **Commits no GitHub:** https://github.com/linnoff88-dev/ccmastermemory
 
 ## Como usar (para alunos)
@@ -92,4 +92,4 @@ xdg-open index.html   # Linux
 open index.html       # macOS
 ```
 
-Zero build, zero dependÃªncias â€” HTML + Tailwind CDN.
+Zero build, zero dependêÂªncias ê¢â¬â HTML + Tailwind CDN.

@@ -1,6 +1,6 @@
 # Lab: palavra-codigo
 
-Experimento que prova empiricamente por que CLAUDE.md é sugestivo e hooks são determinísticos.
+Experimento que prova empiricamente por que CLAUDE.md é sugestivo e hooks sêo determinísticos.
 
 ## O teste
 
@@ -8,7 +8,7 @@ Coloque uma palavra-código no CLAUDE.md, abra 10 sessões novas e faça a mesma
 
 ## Arquivos
 
-- `CLAUDE.md` — palavra-código em formato CLAUDE.md padrão
+- `CLAUDE.md` — palavra-código em formato CLAUDE.md padrêo
 - `prime.md` — mesma palavra em formato de hook
 - `hook.sh` — script que retorna `prime.md` como additionalContext
 - `settings.json` — config de hook SessionStart
@@ -47,4 +47,4 @@ mkdir -p .claude && cp settings.json .claude/settings.local.json
 
 ## Reproduzir no seu projeto
 
-Substitua a palavra-código por qualquer regra crítica do seu contexto. O padrão vale.
+Substitua a palavra-código por qualquer regra crítica do seu contexto. O padrêo vale.
